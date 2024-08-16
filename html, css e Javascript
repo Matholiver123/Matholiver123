@@ -1,0 +1,102 @@
+<!DOCETYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="veiwport" <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Calculadora de Matheus </title>
+<style>
+     body {
+	      font-family:arial, sans-serif;
+		  background-color: 0000FF;
+		  display:flex;
+		  justify-content:center;
+		  align-items:center;
+		  height: 100vh;
+		  margin: 10;
+}
+
+	
+.calculator {
+        width: 300px;
+        background-color: white ;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+    }
+    .calculator input[type="button"] {
+        width: 60px;
+        height: 60px;
+        font-size: 24px;
+        margin: 5px;
+        cursor: pointer;
+        border: none;
+        outline: none;
+        background-color: white;
+        box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        transition: background-color 0.3s ease;
+    }
+    .calculator input[type="button"]:hover {
+        background-color:white ;
+    }
+    .calculator .screen {
+        font-size: 36px;
+		background-color:008080;
+        border: 1px solid #ccc;
+        margin-bottom: 10px;
+        padding: 10px;
+        text-align: right;
+    }
+</style>
+</head>
+<body>
+<div class="calculator">
+    <div class="screen" id="screen">0</div>
+    <input type="button" value="7" onclick="addToScreen('7')">
+    <input type="button" value="8" onclick="addToScreen('8')">
+    <input type="button" value="9" onclick="addToScreen('9')">
+    <input type="button" value="/" onclick="addToScreen('/')"><br>
+    
+    <input type="button" value="4" onclick="addToScreen('4')">
+    <input type="button" value="5" onclick="addToScreen('5')">
+    <input type="button" value="6" onclick="addToScreen('6')">
+    <input type="button" value="*" onclick="addToScreen('*')"><br>
+    
+    <input type="button" value="1" onclick="addToScreen('1')">
+    <input type="button" value="2" onclick="addToScreen('2')">
+    <input type="button" value="3" onclick="addToScreen('3')">
+    <input type="button" value="-" onclick="addToScreen('-')"><br>
+    
+    <input type="button" value="0" onclick="addToScreen('0')">
+    <input type="button" value="." onclick="addToScreen('.')">
+    <input type="button" value="=" onclick="calculate()">
+    <input type="button" value="+" onclick="addToScreen('+')"><br>
+    
+    <input type="button" value="C" onclick="clearScreen()">
+</div>
+<script>
+ function addToScreen(value) {
+        document.getElementById('screen').innerText += value;
+    }
+    
+    function clearScreen() {
+        document.getElementById('screen').innerText = '';
+    }
+    
+    function calculate() {
+        try {
+            let result = eval(document.getElementById('screen').innerText);
+            document.getElementById('screen').innerText = result;
+        } catch (error) {
+            document.getElementById('screen').innerText = 'Error';
+        }
+    }
+</script>
+
+</body>
+</html>
