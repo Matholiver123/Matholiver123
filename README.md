@@ -1,5 +1,5 @@
-🌟 Olá! Sou [Seu Nome]
-👩‍💻 Desenvolvedor(a) em início de carreira
-🔍 Apaixonado(a) por aprender e explorar novas tecnologias
-📚 Sempre em busca de conhecimento em [tecnologias ou áreas de interesse, como programação, IA, etc.]
+🌟 Olá! Sou Matheus de Oliveira Nascimento Santos
+👩‍💻 Desenvolvedor em início de carreira
+🔍 Apaixonado por aprender e explorar novas tecnologias
+📚 Focado em [suas áreas de interesse, como programação, IA, etc.]
 💡 Em breve: meus primeiros projetos!
