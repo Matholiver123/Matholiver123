@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Matholiver123
-- Pronouns: he, his
-- 🌱 I’m currently learning: html, css e Java script ...
-<!---
-Matholiver123/Matholiver123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Olá! Sou [Seu Nome]
+👩‍💻 Desenvolvedor(a) em início de carreira
+🔍 Apaixonado(a) por aprender e explorar novas tecnologias
+📚 Sempre em busca de conhecimento em [tecnologias ou áreas de interesse, como programação, IA, etc.]
+💡 Em breve: meus primeiros projetos!
