@@ -186,10 +186,11 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Matholiver123&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### Sobre mim
 
-<br/>  
+- 🧑‍💻 Tenho 17 anos e estou no mundo do desenvolvimento desde [ano em que começou].
+- 📚 Tenho atualmente 10 repositórios no GitHub.
+
 
 
 
