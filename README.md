@@ -49,6 +49,95 @@
 </div>
 
 </td><td valign="top" width="33%">
+<table>
+  <thead>
+    <tr>
+      <th>Tecnologia</th>
+      <th>Nível</th>
+      <th>Progresso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Linguagens -->
+    <tr>
+      <td colspan="3" align="center"><strong>🖥️ Linguagens</strong></td>
+    </tr>
+    <tr>
+      <td>🔥 HTML5</td>
+      <td>Avançado</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)</td>
+    </tr>
+    <tr>
+      <td>🎨 CSS3</td>
+      <td>Avançado</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)</td>
+    </tr>
+    <tr>
+      <td>⚡ JavaScript</td>
+      <td>Intermediário</td>
+      <td>🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ (60%)</td>
+    </tr>
+    <tr>
+      <td>🐘 PHP</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🐍 Python</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🔷 Dart</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🎮 C#</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+       <!-- Frameworks e Bibliotecas -->
+      <td colspan="3" align="center"><strong>🛠️ Frameworks & Bibliotecas</strong></td>
+    </tr>
+    <tr>
+      <td>⚛️ React</td>
+      <td>Básico</td>
+      <td>🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜ (40%)</td>
+    </tr>
+    <tr>
+      <td>📱 React Native</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
+    </tr>
+    <tr>
+      <td>🌿 Node.js</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
+    </tr>
+    <tr>
+      <td>📱 Flutter</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+    <!-- Ferramentas -->
+      <td colspan="3" align="center"><strong>🧰 Ferramentas</strong></td>
+    </tr>
+    <tr>
+      <td>🌱 Git</td>
+      <td>Intermediário</td>
+      <td>🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ (60%)</td>
+    </tr>
+    <tr>
+      <td>🖥️ Visual Studio Code</td>
+      <td>Intermediário</td>
+      <td>🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ (60%)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### DevOps  
 <div align="center">  
