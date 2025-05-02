@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’ve been freelancing as a full-stack developer since 2013. Always excited to learn new things and build amazing projects.</div>  
+### <div align="center">I’ve been starting my journey as a full-stack developer. I’m always excited to learn new things and build amazing projects.</div>  
   
 
 - 🔭 I’m currently studying **Hyperledger** and **Kubernetes** to improve my skills in blockchain and cloud technologies.
