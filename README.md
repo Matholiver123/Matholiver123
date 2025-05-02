@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-header-image.png" align="center" style="width: 100%" />
+
 </div>
 
 ### <div align="center">I’ve been freelancing as a full-stack developer since 2013. Always excited to learn new things and build amazing projects.</div>
