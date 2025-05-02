@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://github.com/Matholiver123" alt="Greetings" width="600" />
 
-<!--
-**Matholiver123/Matholiver123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Rishav
 
-Here are some ideas to get you started:
+I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Currently Working On
+[Github Profilinator](https://github.com/rishavanand/github-profilinator)
+
+## 🌱 Currently Learning
+Hyperledger and Kubernetes
+
+## ❓ Ask Me About
+Anything related to the MERN stack and related technologies
+
+## ⚡ Fun Fact
+I use tabs over spaces 😄
