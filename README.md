@@ -186,10 +186,7 @@
 <br/>  
 
 
-### Sobre mim
 
-- 🧑‍💻 Tenho 17 anos e estou no mundo do desenvolvimento desde [ano em que começou].
-- 📚 Tenho atualmente 10 repositórios no GitHub.
 
 
 
