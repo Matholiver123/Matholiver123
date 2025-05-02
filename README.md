@@ -53,7 +53,6 @@ Always excited to learn new things and build amazing projects.
 <br/>
 
 ## Conhecimentos Técnicos
-
 <table>
   <thead>
     <tr>
@@ -63,25 +62,82 @@ Always excited to learn new things and build amazing projects.
     </tr>
   </thead>
   <tbody>
+    <!-- Linguagens -->
     <tr>
       <td colspan="3" align="center"><strong>🖥️ Linguagens</strong></td>
     </tr>
-    <tr><td>HTML5</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (50%)</td></tr>
-    <tr><td>CSS3</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (40%)</td></tr>
-    <tr><td>JavaScript</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (40%)</td></tr>
-    <tr><td>PHP</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (40%)</td></tr>
-    <tr><td>Python</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (23%)</td></tr>
-    <tr><td>Dart</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (25%)</td></tr>
-    <tr><td>C#</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (35%)</td></tr>
-
     <tr>
+      <td>🔥 HTML5</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🎨 CSS3</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>⚡ JavaScript</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🐘 PHP</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🐍 Python</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🔷 Dart</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🎮 C#</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <!-- Frameworks e Bibliotecas -->
       <td colspan="3" align="center"><strong>🛠️ Frameworks & Bibliotecas</strong></td>
     </tr>
-    <tr><td>React</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td></tr>
-    <tr><td>React Native</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td></tr>
-    <tr><td>Node.js</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td></tr>
-    <tr><td>Express.js</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td></tr>
-    <tr><td>MongoDB</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td></tr>
-    <tr><td>Firebase</td><td>Básico</td><td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (40%)</td></tr>
+    <tr>
+      <td>⚛️ React</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>📱 React Native</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🌿 Node.js</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>📱 Flutter</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <!-- Ferramentas -->
+      <td colspan="3" align="center"><strong>🧰 Ferramentas</strong></td>
+    </tr>
+    <tr>
+      <td>🌱 Git</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+    <tr>
+      <td>🖥️ Visual Studio Code</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
   </tbody>
 </table>
