@@ -13,7 +13,13 @@
 - ⚡ Fun fact: I use **tabs over spaces** because consistency is key! 😎
 
 <br/>  
-
+{
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+    ]
+}
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
