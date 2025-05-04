@@ -6,18 +6,7 @@
 ### <div align="center">I’ve been starting my journey as a full-stack developer. I’m always excited to learn new things and build amazing projects.</div>  
   
 
-- 🔭 I’m currently studying **Hyperledger** and **Kubernetes** to improve my skills in blockchain and cloud technologies.
-  
-  
-
-- I’m currently learning **Hyperledger** and **Kubernetes** to dive deeper into blockchain and cloud-native technologies.  
-  
-
-- ❓ Ask me about anything related to the **MERN stack**, **GraphQL**, **TypeScript**, and other full-stack technologies!  
-  
-
-- ⚡ Fun fact: I use **tabs over spaces** because consistency is key! 😎
-  
+Atualmente, sou iniciante e estou estudando Hyperledger, Kubernetes, desenvolvimento web (front-end, back-end, banco de dados) e mobile para aprimorar minhas habilidades em blockchain, tecnologias em nuvem e desenvolvimento full-stack.
   
 
 <br/>  
