@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td>🔥 HTML5</td>
-      <td>Básico</td>
+      <td>Intermediário</td>
       <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
     </tr>
     <tr>
