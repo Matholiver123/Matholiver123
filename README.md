@@ -95,8 +95,8 @@
     </tr>
     <tr>
       <td>🔥 HTML5</td>
-      <td>Intermediário</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>Básico</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨(80%)</td>
     </tr>
     <tr>
       <td>🎨 CSS3</td>
@@ -106,7 +106,7 @@
     <tr>
       <td>⚡ JavaScript</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 (86%)</td>
     </tr>
     <tr>
       <td>🐘 PHP</td>
