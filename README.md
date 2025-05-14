@@ -111,12 +111,12 @@
     <tr>
       <td>🐘 PHP</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
     </tr>
     <tr>
       <td>🐍 Python</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td>
     </tr>
     <tr>
       <td>🔷 Dart</td>
@@ -129,23 +129,33 @@
       <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
     </tr>
     <tr>
+      <td>🌙 Lua</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
+     <tr>
+      <td>💻 C++</td>
+      <td>Básico</td>
+      <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
+    </tr>
+    <tr>
       <!-- Frameworks e Bibliotecas -->
       <td colspan="3" align="center"><strong>🛠️ Frameworks & Bibliotecas</strong></td>
     </tr>
     <tr>
       <td>⚛️ React</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
     </tr>
     <tr>
       <td>📱 React Native</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
     </tr>
     <tr>
       <td>🌿 Node.js</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
     </tr>
     <tr>
       <td>📱 Flutter</td>
@@ -159,12 +169,12 @@
     <tr>
       <td>🌱 Git</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
     </tr>
     <tr>
       <td>🖥️ Visual Studio Code</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
     </tr>
   </tbody>
 </table>
