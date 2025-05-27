@@ -106,12 +106,12 @@
     <tr>
       <td>⚡ JavaScript</td>
       <td>Básico</td>
-      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 (86%)</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜  (86%)</td>
     </tr>
     <tr>
       <td>🐘 PHP</td>
       <td>Básico</td>
-      <td>🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
+      <td>🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ (50%)</td>
     </tr>
     <tr>
       <td>🐍 Python</td>
@@ -121,7 +121,7 @@
     <tr>
       <td>🔷 Dart</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
     </tr>
     <tr>
       <td>🎮 C#</td>
@@ -155,7 +155,7 @@
     <tr>
       <td>🌿 Node.js</td>
       <td>Básico</td>
-      <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
+      <td>⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
     </tr>
     <tr>
       <td>📱 Flutter</td>
@@ -174,7 +174,7 @@
     <tr>
       <td>🖥️ Visual Studio Code</td>
       <td>Básico</td>
-      <td>🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (30%)</td>
+      <td>🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜ (60%)</td>
     </tr>
   </tbody>
 </table>
