@@ -96,12 +96,12 @@
     <tr>
       <td>🔥 HTML5</td>
       <td>Básico</td>
-      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨(80%)</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨(90%)</td>
     </tr>
     <tr>
       <td>🎨 CSS3</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨(90%)</td>
     </tr>
     <tr>
       <td>⚡ JavaScript</td>
