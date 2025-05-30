@@ -118,6 +118,11 @@
       <td>Básico</td>
       <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td>
     </tr>
+     <tr>
+      <td>🌙 Lua</td>
+      <td>Básico</td>
+      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+    </tr>
     <tr>
       <td>🔷 Dart</td>
       <td>Básico</td>
@@ -129,9 +134,9 @@
       <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
     </tr>
     <tr>
-      <td>🌙 Lua</td>
+      <td>☕️ Java</td>
       <td>Básico</td>
-      <td>🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
+      <td>🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜(20%)</td>
     </tr>
      <tr>
       <td>💻 C++</td>
