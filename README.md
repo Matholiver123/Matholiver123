@@ -141,6 +141,11 @@
   <td>Intermediário: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
   <td>Avançado: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
 </tr>
+    <td>🐹 Go </td>
+<td>Básico: 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ (75%)</td>
+<td>Intermediário: 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td>
+<td>Avançado: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (0%)</td>
+</tr>
       <!-- Frameworks e Bibliotecas -->
       <td colspan="3" align="center"><strong>🛠️ Frameworks & Bibliotecas</strong></td>
     </tr>
