@@ -114,8 +114,8 @@
 <tr>
   <td>⚡ JavaScript</td>
   <td>Básico: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100%)</td>
-  <td>Intermediário: 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ (40%)</td>
-  <td>Avançado: 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜ (10%)</td>
+  <td>Intermediário: 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ (75%)</td>
+  <td>Avançado: 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ (20%)</td>
 </tr>
 <tr>
   <td>🐍 Python</td>
