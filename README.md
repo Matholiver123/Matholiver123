@@ -1,26 +1,42 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-# 👋 Olá, eu sou Matheus!
-
-### 💻 Desenvolvedor em formação | Full Stack
-
-🎓 Estudante de Engenharia de Software  
-🌐 Apaixonado por desenvolvimento web e backend  
-🚀 Sempre aprendendo e criando novos projetos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Matheus%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
----
+<!-- ======================= TYPING ======================= -->
 
-## 🧑‍💻 Sobre mim
+<div align="center">
 
-Sou estudante de **Engenharia de Software** e desenvolvedor em formação, com foco em desenvolvimento web e backend.
+<a href="https://github.com/Matholiver123">
 
-Tenho experiência com **HTML, CSS, JavaScript e Java**, além de conhecimentos em bancos de dados e desenvolvimento de aplicações.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Matheus+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+e+construindo+%F0%9F%94%A5" />
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento de sistemas, APIs, bancos de dados e novas tecnologias.
+</a>
+
+</div>
+
+<br>
+
+<!-- ======================= ABOUT ======================= -->
+
+## 👨‍💻 Sobre mim
+
+Olá! Eu sou **Matheus Oliveira**, estudante de **Engenharia de Software** e desenvolvedor em formação.
+
+Estou construindo minha jornada na programação e atualmente tenho foco em **desenvolvimento web, backend, bancos de dados e desenvolvimento mobile**.
+
+Gosto de aprender novas tecnologias e transformar o conhecimento adquirido em projetos práticos.
 
 ```text
-🎯 Objetivo: Me tornar um desenvolvedor Full Stack
-📚 Atualmente estudando: JavaScript, Java, SQL e desenvolvimento web
-💡 Interesse: Backend, APIs, bancos de dados e aplicações web
+💻 Desenvolvimento Web
+☕ Java
+⚡ JavaScript
+🌐 HTML & CSS
+🐹 Go
+🐍 Python
+🗄️ Bancos de Dados
+📱 Desenvolvimento Mobile
+🚀 Sempre aprendendo
